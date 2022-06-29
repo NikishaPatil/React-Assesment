@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Bobby Brown",
+
+      "content": "Najeel verwick is a common friend"
+
+    },
+    {
+      "id": 2,
+      "name": "David Kim",
+      "content": "You have 4 common friends"
+      
+    },
+    {
+      "id": 3,
+      "name": "Elsie",
+      "content": "You are now friends with Nelly Schwartz. Check her profile."
+    },
+
+    {
+        "id": 4,
+        "name": "Elsie",
+        "content": "You are now friends with Edward Mayers. Check his profile."
+    }
+    
+]

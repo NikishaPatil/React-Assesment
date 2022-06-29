@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "content": "David Kim commented on your post.",
+      "time": "30 minutes ago"
+
+    },
+
+    {
+        "id": 2,
+        "content": "Daniel Wellington liked your profile.",
+        "time": "43 minutes ago"
+  
+      },
+
+      {
+        "id": 3,
+        "content": "Stella Bergmann shared a New video on your wall.",
+        "time": "Yesterday"
+  
+      },
+
+      {
+        "id": 4,
+        "content": "Elise Walker shared an Image with you an 2 other people.",
+        "time": "2 days ago"
+  
+      }
+   
+
+]

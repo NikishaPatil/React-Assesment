@@ -1,0 +1,147 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'poppins',sans-serif;
+	box-sizing: border-box;
+}
+
+body{
+	background: var(--body-color);
+	transition: background 0.3s;
+}
+
+
+.navbarContainer{
+	width:100%;
+    height:80px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	background-color: #ffffff;
+	padding: 0px 20px 5px 10px ;
+	position: fixed;
+	top: 0;
+	z-index: 100;
+}
+
+.navbarLeft{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+
+.navbarRight{
+	display: flex;
+	align-items: center;
+    margin: auto;
+}
+
+.navbarRight {
+    list-style: none;
+    display:inline-block;
+    width: 40px;
+    height: 40px;
+    padding-right: 30px;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+	margin-right: 0px;
+    border-right: 0px;
+}
+
+.navbarLeft{
+	list-style: none;
+	display: inline-block;
+    margin-left: 750px;
+	
+}
+
+
+
+
+.searchbar{
+	background: #f7f6f6;
+	width: 350px;
+	border-radius: 20px;
+	display: flex;
+	align-items: center;
+    padding-right: 100px;
+    position: relative;
+    margin-left: 1100px;
+}
+.searchIcon{
+	width: 18px;	
+}
+.searchInput input{
+	width: 100%;
+	background: transparent;
+	padding: 20px;
+	outline: none;
+	border: 0;
+}
+
+.profileImg {
+    height: 40px;
+	width: 40px;
+	border-radius: 50%;
+	cursor: pointer;
+	margin-right:-20px;
+}
+
+.heartIcon {
+	height:25px;
+	width:25px;
+}
+
+
+.notificationIcon {
+	height:25px;
+	width:25px;
+
+}
+
+.mailIcon {
+	height:25px;
+	width:25px;
+
+}
+
+
+.chatIcon {
+	height:25px;
+	width:25px;
+
+}
+
+.exploreIcon {
+	height:25px;
+	width:25px;
+
+}
+
+.shoppingcartIcon {
+	height:25px;
+	width:25px;
+
+}
+
+.req {
+	margin-top: 12rem ;
+}
+
+.icon {
+	height:15px;
+	width: 15px;
+}
+
+.bg {
+	background-color: rgb(221, 221, 221);
+	padding: 15px;
+	border-radius: 10px;
+}
+
+
+
