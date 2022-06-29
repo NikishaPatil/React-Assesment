@@ -1,0 +1,108 @@
+body {
+    background-color: rgb(245, 245, 245);
+}
+
+.topcontainer {
+    margin-top: 100px;
+    display: flex;
+    
+}
+
+
+.logo2 {
+    margin-left: 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+}
+
+
+.nextdiv {
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: small;
+}
+
+
+.centerdiv {
+    margin-top: 10px;
+    margin-left: 450px;
+    font-size:small;
+    word-spacing: 10px;
+}
+
+.rightdiv {
+    margin: 10px;
+    margin-left: 650px;
+    margin-right:2px;
+    font-size:small;
+
+
+}
+
+.cartitem{
+    display: flex;
+    width:100%;
+    margin-top: 100px;
+    margin-left: 20px;
+    justify-content: space-around;
+}
+
+
+.cartvalue {
+    border-style: ridge;
+    border-radius: 10px;
+    padding:20px;
+    border-color: rgb(218, 218, 218);
+    background-color: rgb(213, 230, 230);
+    
+}
+
+
+
+.imagesrc {
+    height: 250px;
+    Width: 250px;
+    
+}
+
+.description {
+    font-size: x-small;
+    margin-left: 10px;
+}
+
+.heartIcon {
+    height:20px;
+    width:20px;
+}
+
+.Amount {
+    font-size:medium;
+    
+}
+
+
+.btn {
+        border: none;
+        size: 300px;
+        color: rgb(48, 48, 48);
+        padding: 16px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 12px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+}
+
+.btn :hover{
+    background-color: rgb(216, 177, 70);
+}
+
+.btn :active {
+    transform: translateY(2px);
+}
+
+
+      
